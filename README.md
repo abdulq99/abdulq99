@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @abdulq99
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello this is Abdul Raheem qureshi this is my project for 6001CEM my Student ID is 8581640
 
-<!---
-abdulq99/abdulq99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+How do you stop Cheaters in FPS Games without being invasive and countering countermeasures because of countermeasures: Is computer vision the way to go?
+
+i was unable to save to university githuub because it just doesnt work with the google colab platform i was using.
